@@ -1,8 +1,8 @@
 
-# GIT related commands to practice GITHUN
+# GIT related commands 
 Git --version  #(check healthy install)
 
-Git config --global user.name "Your Name"
+Git config --global user.name "Murtuza Motorwala"
 Git config --global user.email "your@email.com"
 Git config --global --list
 
