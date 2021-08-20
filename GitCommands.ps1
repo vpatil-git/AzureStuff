@@ -1,5 +1,5 @@
 
-# GIT related commands to master GIT
+# GIT related commands
 Git --version  #(check healthy install)
 
 Git config --global user.name "Your Name"
